@@ -1,2 +1,8 @@
 name: empty
-version: 0.0.4
+version: 0.0.5
+env :
+  IETS : meteenwaarde
+  IPIETS : meteen$$HOST$$dus
+init-script: |
+  echo 1
+  echo 2
