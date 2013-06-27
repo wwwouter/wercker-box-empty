@@ -1,5 +1,6 @@
 name: empty
 version: 0.0.13
+type: main
 packages :
   - ruby@1.9.3
   - webkitserver@4.2
